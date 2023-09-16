@@ -1,0 +1,14 @@
+export { default as Image } from "./Image";
+export { default as Logo } from "./Logo";
+export { default as MenuMobile } from "./MenuMobile";
+export { default as NewFeatures } from "./NewFeatures";
+export { default as StartSteps } from "./StartSteps";
+export { default as MenuDesktop } from "./MenuDesktop";
+export { default as Courses } from "./Courses";
+export { default as Skills } from "./Skills";
+export { default as Interests } from "./Interests";
+export { default as Information } from "./Information";
+export { default as Experiences } from "./Experiences";
+export { default as Education } from "./Education";
+export { default as Personal } from "./Personal";
+export { TextParagraph, TextH3, TextH1, TextImportant } from "./Text";
